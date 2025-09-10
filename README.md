@@ -1,3 +1,3 @@
 # Python-Fundamentals
 
-Projects and exercises from the Fundamentals module!
+Projects and exercises using the fundamentals of Python!
